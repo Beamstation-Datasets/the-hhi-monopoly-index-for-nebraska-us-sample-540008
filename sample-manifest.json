@@ -1,0 +1,12 @@
+{
+  "export_job_id": "6d5b5236-151b-4a6f-84e8-482cf90056ad",
+  "id_short": 540008,
+  "published_at": "2026-04-12T07:55:38Z",
+  "repo_name": "the-hhi-monopoly-index-for-nebraska-us-sample-540008",
+  "sample_asset_name": "beamstation_540008_restaurants-us-ne_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/540008/beamstation_540008_restaurants-us-ne_SAMPLE_DIST.csv",
+  "sample_records": 18,
+  "sample_sha256": "ecef8849b2cef1ec10b3056c3075092f95ea9161cb8523ecd12608ec10fbac14",
+  "sample_size_bytes": 84189,
+  "total_records": 188
+}
