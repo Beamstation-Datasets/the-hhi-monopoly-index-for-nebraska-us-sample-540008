@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Nebraska, US
 
-> Free BeamStation sample export with 5 rows and masked direct-contact fields.
+> Free BeamStation sample export with 17 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `540008` |
 | Location | Nebraska |
 | Category | Restaurants |
-| Full dataset size | 54 records |
-| Free sample size | 5 records (9.26%) |
-| Last export | 2026-04-22T13:38:28.472379+00:00 |
+| Full dataset size | 171 records |
+| Free sample size | 17 records (9.94%) |
+| Last export | 2026-04-29T14:20:05.012541+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-nebraska-us-sample-540008/releases/download/sample-latest/beamstation_540008_restaurants-us-ne_SAMPLE_DIST.csv) |
 
 ## What is in this sample
